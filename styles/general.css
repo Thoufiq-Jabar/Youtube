@@ -1,10 +1,14 @@
 body {
+  font-family: Roboto, Arial;
   margin: 0;
   padding: 80px 24px 24px 96px;
   background-color: rgb(249, 249, 249);
 }
 
 p {
-  font-family: Roboto, Arial;
   margin: 0;
+}
+
+a {
+  color: black;
 }
