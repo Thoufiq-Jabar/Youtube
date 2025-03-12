@@ -44,6 +44,11 @@
   margin-bottom: 10px;
 }
 
+.video-description a {
+  font-family: Roboto, Arial;
+  color: black;
+}
+
 .video-author,
 .video-stats {
   font-size: 12px;
