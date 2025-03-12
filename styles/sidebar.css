@@ -5,17 +5,17 @@
   bottom: 0;
   width: 72px;
   background-color: white;
-  z-index: 2;
+  z-index: 3;
 }
 
 .sidebar-link {
-  height: 74px;
+  height: 72px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   cursor: pointer;
-  padding-top: 8px;
+  padding-top: 5px;
 }
 
 .sidebar-link:hover {
